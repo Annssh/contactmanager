@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Annssh/contactmanager/static/css/main.2277a46e.css",
+    "main.js": "/Annssh/contactmanager/static/js/main.fac9620a.js",
+    "index.html": "/Annssh/contactmanager/index.html",
+    "main.2277a46e.css.map": "/Annssh/contactmanager/static/css/main.2277a46e.css.map",
+    "main.fac9620a.js.map": "/Annssh/contactmanager/static/js/main.fac9620a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2277a46e.css",
+    "static/js/main.fac9620a.js"
+  ]
+}
