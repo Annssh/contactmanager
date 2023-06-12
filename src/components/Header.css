@@ -1,0 +1,24 @@
+.header{
+  top: 0;
+  background-color: rgb(1, 1, 37);
+  height: 80px;
+  border-color: black;
+  border-style: solid;
+  border-width: 0px 0px 5px 0px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+}
+.headercntnt{
+  background-color: antiquewhite;
+  padding: 10px;
+  font-weight: 600;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 5px rgba(205, 186, 162, 0.4);
+  font-size: 20px;
+  cursor: pointer;
+}
